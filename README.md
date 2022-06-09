@@ -1,8 +1,6 @@
-# Demo 
+# To do List
 
-Some description !
-
-
-## Subheader
+Finishing up Assignments
+Testing push command line
 
 Watch Videos on Youtube.
